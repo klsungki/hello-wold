@@ -1,0 +1,4 @@
+crystal report runtime 
+<startup uselegacyv2runtimeactivationpolicy="true">
+ <supportedruntime version="v4.0" sku=".NETFramework,Version=v4.0" />
+ </startup>
