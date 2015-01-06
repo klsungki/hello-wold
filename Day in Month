@@ -1,0 +1,2 @@
+int days = DateTime.DaysInMonth(2014, 9);
+             string date = "2014"+'/'+"9"+'/'+ days;
